@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244998983175",
+    "firebase_url": "https://read-write-firebase-a30b9.firebaseio.com",
+    "project_id": "read-write-firebase-a30b9",
+    "storage_bucket": "read-write-firebase-a30b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244998983175:android:1e59e10386f87ef9a4a4a2",
+        "android_client_info": {
+          "package_name": "com.example.read_write_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244998983175-qq8mo2f12cpcdecji0c3sb3aqddro5nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBarZv1W4y0-0akVTuckj4ybMzgGcPYSRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244998983175-qq8mo2f12cpcdecji0c3sb3aqddro5nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
